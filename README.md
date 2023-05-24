@@ -6,7 +6,6 @@
 * **Contact number** : 0767332232
 * **Email** : ayishailyas21@gmail.com
 
-![profile picture](https://avatars.githubusercontent.com/u/93942498?v=4)
 
 [![An image of @ayishailyas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayishailyas)](https://holopin.io/@ayishailyas)
 
